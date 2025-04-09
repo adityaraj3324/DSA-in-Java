@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RevStr.java" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="RevStr" />
+    <module name="Java Programs" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
