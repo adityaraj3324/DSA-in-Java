@@ -4,5 +4,5 @@
 /**
  * 
  */
-module DSA01 {
+module Queue1 {
 }
