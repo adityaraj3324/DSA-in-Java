@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Scanner;
 
-public class ArrayPattern{
+public class ArrayPattern01{
 	public static int Max(int arr[]) {
 		int temp = arr[0];
 		for(int i=1;i<arr.length;i++) {
@@ -26,10 +26,10 @@ public class ArrayPattern{
 		for(int i=0;i<max;i++) {
 			for(int j=0;j<num;j++) {
 				if(i>=max-arr[j]) {
-					System.out.print("*");
+					System.out.print("* ");
 				}
 				else {
-					System.out.print(" ");
+					System.out.print("  ");
 				}
 				
 			}
